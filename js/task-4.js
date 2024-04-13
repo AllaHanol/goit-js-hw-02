@@ -1,4 +1,3 @@
-debugger
 function getShippingCost(country) {
     let price = 0;
     let message = '';
